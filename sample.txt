@@ -1,0 +1,8 @@
+# Sample text file on mahaveer branch
+
+This file was added on the `mahaveer` branch.
+
+Example code snippet:
+
+    def hello():
+        print("Hello from mahaveer branch")
