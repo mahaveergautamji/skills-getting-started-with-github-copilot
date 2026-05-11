@@ -113,7 +113,7 @@ Great work! Now that we are familiar with the app and we know it works, let's as
 
 If you don't get feedback, here are some things to check:
 
-- Make sure your created the branch with the exact name `mahaveer`. No prefixes or suffixes.
+- Make sure you created the branch with the exact name `mahaveer`. No prefixes or suffixes.
 - Make sure the branch was indeed published to your repository.
 
 </details>
