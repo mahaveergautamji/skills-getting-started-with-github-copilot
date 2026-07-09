@@ -3,7 +3,7 @@ name: Step 3
 on:
   push:
     branches:
-      - "accelerate-with-copilot"
+      - "mahaveer"
     paths:
       - "src/static/**"
 
